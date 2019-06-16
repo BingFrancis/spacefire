@@ -69,4 +69,6 @@ class enemy extends egret.Sprite {
         //this.box_build();
         this.addEventListener(egret.Event.ENTER_FRAME, this.enemy_move, this);
     }
+
+    //sacacabajckcaack
 } 
